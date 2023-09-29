@@ -1,0 +1,2 @@
+a="rids"
+print(a)
