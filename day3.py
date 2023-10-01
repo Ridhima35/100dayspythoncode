@@ -1,2 +1,0 @@
-a="rids"
-print(a)
